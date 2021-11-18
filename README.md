@@ -16,9 +16,11 @@ In there you just type: `pip install keyboard`
 
 ### Make sure you open the scripts and replace with your network interface name.
 Go in `Network Connections` to check your interface name.
+
 ![Screenshot_3](https://user-images.githubusercontent.com/34041519/142474129-5318cb2a-42f4-4c9f-9dd2-f756af372567.png)
 
 Change `Ethernet` to your current network interface name.
+
 ![Screenshot_4](https://user-images.githubusercontent.com/34041519/142474370-457ed4cc-26fd-4eea-8684-51ad1c034c23.png)
 
 
