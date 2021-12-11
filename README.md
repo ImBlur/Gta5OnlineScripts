@@ -19,10 +19,7 @@ Go in `Network Connections` to check your interface name.
 
 ![Screenshot_3](https://user-images.githubusercontent.com/34041519/142474129-5318cb2a-42f4-4c9f-9dd2-f756af372567.png)
 
-Change `Ethernet` to your current network interface name.
-
-![Screenshot_4](https://user-images.githubusercontent.com/34041519/142474370-457ed4cc-26fd-4eea-8684-51ad1c034c23.png)
-
+Open the `settings.cfg` file and repleace `Ethernet` with your currnet network interface name.
 
 ## Solo Public Session
 You just open the script to create a solo public session. This script will automatically create a public session with nobody on it so you can safely sell your bunker/night club stocks without the constant fear of griefers coming to kill.
