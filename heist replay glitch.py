@@ -18,3 +18,4 @@ while True:
         else:
             print('Restoring connection')
             os.system("netsh interface set interface Ethernet enabled") # Change "Ethernet" for your network interface's name
+            toggle = False
