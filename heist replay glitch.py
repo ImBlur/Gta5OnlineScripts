@@ -18,9 +18,9 @@ while True:
     if keyboard.is_pressed("n"):
         if toggle == False:
             print('N presed. Stopping connection')
-            os.system(f"netsh interface set interface {nsetting[0][0]} disabled")
+            os.system(f"netsh interface set interface {nsetting[0]} disabled")
             toggle = True
         else:
             print('Restoring connection')
-            os.system(f"netsh interface set interface {nsetting[0][0]} enabled")
+            os.system(f"netsh interface set interface {nsetting[0]} enabled")
             toggle = False
