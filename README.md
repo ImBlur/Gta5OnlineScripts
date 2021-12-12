@@ -3,6 +3,7 @@ This repo is dedicated to some GTA 5 Online scripts that I made.
 To run the scripts just open the `.bat` file.
 
 ### Make sure you have `python3` or above installed for the scripts to work correctly!
+Python is required to run the scripts only if you don't download a release.
 
 #### These scripts have been made for `Windows`.
 
