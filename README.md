@@ -4,7 +4,7 @@ This repo is dedicated to some GTA 5 Online scripts that I made.
 ### Make sure you have `python3` or above installed for the scripts to work correctly!
 Python is required to run the scripts only if you don't download a release.
 
-Open a terminal and navigate to the scripts folder and run `python build.py` to build the scripts.
+### Open a terminal and navigate to the scripts folder and run `python build.py` to build the scripts.
 
 #### These scripts have been made for `Windows`.
 
