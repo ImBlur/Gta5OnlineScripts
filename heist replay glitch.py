@@ -10,7 +10,7 @@ toggle = False
 with open("settings.cfg", 'r') as f:
     settings = f.readlines()
 
-nsetting = [setting.strip().split(' ') for setting in settings]
+nsetting = [setting.strip() for setting in settings]
 
 print("Heist Replay Glitch | PRESS N")
 
