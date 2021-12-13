@@ -1,20 +1,17 @@
 # Grand Theft Auto 5 Online Scripts
 This repo is dedicated to some GTA 5 Online scripts that I made.
 
-### Make sure you have `python3` or above installed for the scripts to work correctly!
-Python is required to run the scripts only if you don't download a release.
-
-Open a terminal and navigate to the scripts folder and run `python build.py` to build the scripts.
+### Python is required to run the scripts ONLY if you don't download a release!
+### Make sure you have `python3` or above installed to BUILD the scripts!
 
 #### These scripts have been made for `Windows`.
+
+## How to build the scripts:
+Open a terminal and navigate to the scripts folder and run `pip install -r requirements.txt` to install the required python modules and then `python build.py` to build the scripts.
 
 ## Heist Replay Glitch
 I recommend watching some YouTube videos about this before you run this script. (just search for: Gta online `name of the heist` replay glitch)
  When it tells you to disconnect your ethernet cable you press `N` on the keyboard and the script will automatically disable your internet connection without the need to disconnect the cable.
-
-### For this script to work you need the python module `keyboard` installed.
-To get this module just press `Windows key` on your keyboard, search for `CMD` and open it as administrator.
-In there you just type: `pip install keyboard`
 
 ### Make sure you open the scripts and replace with your network interface name.
 Go in `Network Connections` to check your interface name.
@@ -24,4 +21,4 @@ Go in `Network Connections` to check your interface name.
 Open the `settings.cfg` file and repleace `Ethernet` with your currnet network interface name.
 
 ## Solo Public Session
-You just open the script to create a solo public session. This script will automatically create a public session with nobody on it so you can safely sell your bunker/night club stocks without the constant fear of griefers coming to kill.
+You just open the script to create a solo public session. This script will automatically create a public session with nobody on it so you can safely sell your bunker/night club stocks without the constant fear of griefers coming to kill you.
