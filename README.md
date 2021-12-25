@@ -6,6 +6,15 @@ This repo is dedicated to some GTA 5 Online scripts that I made.
 
 #### These scripts have been made for `Windows`.
 
+## Download:
+[![Download](https://img.shields.io/github/downloads/ImBlur/Gta5OnlineScripts/total?label=Downloads)](https://github.com/ImBlur/Gta5OnlineScripts/releases)
+
+You can download the latest release of the scripts from: https://github.com/ImBlur/Gta5OnlineScripts/releases
+
+Download the `Gta5OnlineScripts.rar`.
+
+Building is not required if you download the release.
+
 ## How to build the scripts:
 Open a terminal and navigate to the scripts folder and run `pip install -r requirements.txt` to install the required python modules and then `python build.py` to build the scripts.
 
